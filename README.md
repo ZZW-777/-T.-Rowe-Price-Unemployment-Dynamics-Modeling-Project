@@ -1,5 +1,4 @@
 P13 T. Rowe Price Lifecycle Research  
-Team 1  
 05/11/2025  
 
 Project Files:  
